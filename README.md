@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Felipão da [DIO](https://web.dio.me): Mario Kart.JS</h1>
+<h1>Desafio de projeto da <a href="https://www.dio.me">DIO</a>: Mario Kart.JS</h1>
 
   <table>
         <tr>
